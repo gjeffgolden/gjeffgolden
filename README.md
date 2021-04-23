@@ -1,6 +1,6 @@
-<p align="center">
-# Hello, world! 👋 I'm Jeff.
- </p>
+<h1 align="center">
+Hello, world! 👋 I'm Jeff.
+</h1>
 
 ### I'm a full-stack developer who opted out of a successful career in digital marketing to pursue a lifelong passion for computer science. My core tech stack is Rails and React.js, and I've also built responsive projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript. Away from my computer, I'm an avid hiker, climber, backpacker, reader, sports fan and wildlife advocate.
 
