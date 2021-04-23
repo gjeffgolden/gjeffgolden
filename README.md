@@ -1,6 +1,6 @@
 # Hello, world! 👋 I'm Jeff.
 
-### I'm a full-stack developer who opted out of a successful career in digital marketing to turn a lifelong passion for computer science into a profession. My core tech stack is Rails and React.js, and I've also built projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript.
+### I'm a full-stack developer who opted out of a successful career in digital marketing to pursue a lifelong passion for computer science. My core tech stack is Rails and React.js, and I've also built responsive projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript. Away from my computer, I'm an avid hiker, climber, backpacker, reader, sports fan and wildlife advocate.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="50" height="50" />
 
@@ -15,8 +15,8 @@ A week-long group hackathon project with the theme of "nurturing difference" and
 ### 🌱 I’m currently learning: 
 TDD, Redux
 
-##### 😄 Pronouns: he/him
-##### ⚡ Fun fact: I met my wife, Liz, through an adult kickball league. She kicked a triple while I was pitching. Visit my website for more fun facts!
+### ⚡ Fun fact:
+I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible.
 
 <!--
 **gjeffgolden/gjeffgolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
