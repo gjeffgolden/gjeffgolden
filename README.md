@@ -7,13 +7,14 @@
 
 ###
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="Material-UI Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase Logo" width="50" height="50" />
-
+###
 
 ### 📫 How to reach me:
 <a href="https://gjeffgolden.com">Portfolio Website</a>
 ###
 <a href="https://twitter.com/gjeffgolden/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a>  <a href="https://gjeffgolden.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> <a href="https://www.instagram.com/gjeffgolden/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a>
 
+###
 ### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
 
