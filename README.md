@@ -17,9 +17,9 @@ Hello, world! 👋 I'm Jeff.
 ***
 
 <h3 align="center">📫 How to reach me:</h3>
-<a href="https://gjeffgolden.com">Portfolio Website</a>
+<p align="center"><a href="https://gjeffgolden.com">Portfolio Website</a></p>
 ###
-<a href="https://twitter.com/gjeffgolden/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a>  <a href="https://gjeffgolden.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> <a href="https://www.instagram.com/gjeffgolden/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a>
+<p align="center"><a href="https://twitter.com/gjeffgolden/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a>  <a href="https://gjeffgolden.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> <a href="https://www.instagram.com/gjeffgolden/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a></p>
 
 ***
 
