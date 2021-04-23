@@ -17,7 +17,7 @@
 
 ***
 
-### ⚡ Fun fact:
+### ⚡ Fun Fact:
 I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible. Checkout my website for more Fun Facts!
 
 <!--
