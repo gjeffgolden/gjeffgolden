@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 
-<a href="https://twitter.com/gjeffgolden/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a> <a href="https://gjeffgolden.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="Medium Logo" width="30" height="30" background="white" /></a>
+<a href="https://twitter.com/gjeffgolden/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a>  <a href="https://gjeffgolden.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" background="white" /></a>
 
 ### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
