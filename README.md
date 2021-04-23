@@ -7,16 +7,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" />
 
 ### 📫 How to reach me:
-(Social Icons)
+<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width:"25" height:"25" />
 
 ### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
 
 ### 🌱 I’m currently learning: 
-TDD, Redux
+TDD, Redux, Python
 
 ### ⚡ Fun fact:
-I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible.
+I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible. Checkout my website for more Fun Facts!
 
 <!--
 **gjeffgolden/gjeffgolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
