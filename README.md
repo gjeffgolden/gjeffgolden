@@ -2,8 +2,7 @@
 
 ### I'm a full-stack developer who opted out of a successful career in digital marketing to turn a lifelong passion for computer science into a profession. My core tech stack is Rails and React.js, and I've also built projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript.
 
-### 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" padding="1" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" padding="1" /><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" padding="1" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" padding="1px" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" padding="5px" /><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" margin="1" />
 
 ### 📫 How to reach me:
 (Social Icons)
