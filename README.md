@@ -2,7 +2,7 @@
 
 ### I'm a full-stack developer who opted out of a successful career in digital marketing to pursue a lifelong passion for computer science. My core tech stack is Rails and React.js, and I've also built responsive projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript. Away from my computer, I'm an avid hiker, climber, backpacker, reader, sports fan and wildlife advocate.
 
-
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="50" height="50" />
 
 
