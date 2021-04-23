@@ -2,17 +2,17 @@
 
 ### I'm a full-stack developer who opted out of a successful career in digital marketing to turn a lifelong passion for computer science into a profession. My core tech stack is Rails and React.js, and I've also built projects using Node.js, most major CSS frameworks, Vue.js, TypeScript, Django and vanilla JavaScript.
 
-📫 How to reach me:
+### 📫 How to reach me:
 (Social Icons)
 
-🔭 I’m currently working on: 
+### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
 
-🌱 I’m currently learning: 
+### 🌱 I’m currently learning: 
 TDD, Redux
 
-😄 Pronouns: he/him
-⚡ Fun fact: I met my wife, Liz, through an adult kickball league. She kicked a triple while I was pitching. Visit my website for more fun facts!
+##### 😄 Pronouns: he/him
+##### ⚡ Fun fact: I met my wife, Liz, through an adult kickball league. She kicked a triple while I was pitching. Visit my website for more fun facts!
 
 <!--
 **gjeffgolden/gjeffgolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
