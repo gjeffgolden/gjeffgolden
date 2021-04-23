@@ -23,7 +23,7 @@ Hello, world! 👋 I'm Jeff.
 ***
 
 ### ⚡ Fun Fact:
-I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible. Checkout my website for more Fun Facts!
+I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible. Visit my website for more Fun Facts!
 
 <!--
 **gjeffgolden/gjeffgolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
