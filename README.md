@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="JavaScript Logo" width="30" height="30" />
+<a href="https://twitter.com/gjeffgolden/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="JavaScript Logo" width="30" height="30" /></a>
 
 ### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
