@@ -17,14 +17,6 @@
 
 ***
 
-### 🔭 I’m currently working on: 
-A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
-
-
-### 🌱 I’m currently learning: 
-TDD, Redux, Python
-
-
 ### ⚡ Fun fact:
 I climbed all the 14ers in Colorado between 2009 and 2012, and I still love hiking above treeline as often as humanly possible. Checkout my website for more Fun Facts!
 
