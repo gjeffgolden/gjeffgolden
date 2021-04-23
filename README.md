@@ -7,7 +7,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" />
 
 ### 📫 How to reach me:
-<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width:"25" height:"25" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
 
 ### 🔭 I’m currently working on: 
 A week-long group hackathon project with the theme of "nurturing difference" and providing an amplified voice to different perspectives.
